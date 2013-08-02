@@ -6,4 +6,4 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-log "Hello World! You should try Chef with Infranics!"
+log "Hello World! You should try Chef with Infranics R&D center!"
